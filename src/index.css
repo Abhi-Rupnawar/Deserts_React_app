@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-img{
+    height: 500px;
+    width:500px;
+    object-fit:cover
+}
+.page-title{
+    background-color: rgb(104, 190, 106);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+}
